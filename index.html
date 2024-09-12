@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Luis Gornes">
+        <meta name="description" content="Luis Gornes's portfolio showcasing his skills and experiences as a programmer and web developer.">
+        <meta name="keywords" content="Luis Gornes, portfolio, programmer, web developer, tutor">
+        <link rel="icon" href="assests/logo.png" type="image/png">
+        <link rel="stylesheet" type="text/css" href="stylesheets/styles.css">
+        <script src="js/scripts.js"></script>
+        <title>Luis Gornes Portfolio</title>
+    </head>
+    <body>
+        <nav id="navigation-desktop">
+            <div class="logo">Luis Gornes</div>
+            <div>
+                <ul class="navigation-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <nav id="dropdown-naviagation">
+            <div class="logo">Luis Gornes</div>
+            <div class="dropdown-menu">
+                <div class="dropdown-button" onclick="toggleDropdown()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="dropdown-links">
+                    <li><a href="#about" onclick="toggleDropdown()">About</a></li>
+                    <li><a href="#experience" onclick="toggleDropdown()">Experience</a></li>
+                    <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
+                    <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>                    
+                </div>
+            </div>
+        </nav>
+    </body>
+    <footer>
+        
+    </footer>
+</html>
