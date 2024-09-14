@@ -229,6 +229,7 @@ section {
 .button-color-1,
 .button-color-2 {
   border: rgb(53, 53, 53) 0.1rem solid;
+  color: rgb(0, 0, 0);
 }
 
 .button-color-1:hover,
@@ -248,6 +249,7 @@ section {
 
 .button-color-2 {
   background: none;
+  color: rgb(0, 0, 0);
 }
 
 .button-color-2:hover {
