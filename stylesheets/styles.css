@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+button {
+  color: #000;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
