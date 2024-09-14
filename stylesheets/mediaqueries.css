@@ -10,6 +10,18 @@
   #projects {
     height: fit-content;
   }
+  a {
+  color: black;
+  text-decoration: none;
+  text-decoration-color: white;
+  }
+
+  a:hover {
+    color: rgb(92, 92, 92);
+    text-decoration: underline;
+    text-underline-offset: .5rem;
+    text-decoration-color: rgb(182, 184, 183);
+  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -46,6 +58,19 @@
   .about-containers {
     margin-top: 0;
   }
+  a {
+  color: black;
+  text-decoration: none;
+  text-decoration-color: white;
+  }
+
+  a:hover {
+    color: rgb(92, 92, 92);
+    text-decoration: underline;
+    text-underline-offset: .5rem;
+    text-decoration-color: rgb(182, 184, 183);
+  }
+  
 }
 
 @media screen and (max-width: 600px) {
@@ -100,6 +125,19 @@
   }
   .text-container {
     text-align: justify;
+  }
+
+    a {
+  color: black;
+  text-decoration: none;
+  text-decoration-color: white;
+  }
+
+  a:hover {
+    color: rgb(92, 92, 92);
+    text-decoration: underline;
+    text-underline-offset: .5rem;
+    text-decoration-color: rgb(182, 184, 183);
   }
 }
 
