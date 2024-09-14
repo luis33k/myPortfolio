@@ -186,6 +186,11 @@ section {
   text-align: center;
 }
 
+.text-container{
+  justify-content: left;
+
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
@@ -411,8 +416,6 @@ article .logo {
   color: black;
   border-color: rgb(163, 163, 163);
 }
-
-/* CONTACT */
 
 #contact {
   display: flex;
