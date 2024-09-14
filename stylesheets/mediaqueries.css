@@ -3,6 +3,9 @@
     height: 83vh;
     margin-bottom: 6rem;
   }
+  button {
+  color: #000;
+  }
   .about-containers {
     flex-wrap: wrap;
   }
@@ -27,6 +30,9 @@
 @media screen and (max-width: 1200px) {
   #desktop-naviagtion {
     display: none;
+  }
+  button {
+  color: #000;
   }
   #dropdown-naviagtion {
     display: flex;
@@ -77,6 +83,9 @@
   #contact,
   footer {
     height: 40vh;
+  }
+  button {
+  color: #000;
   }
   #profile {
     height: 83vh;
