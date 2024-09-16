@@ -24,12 +24,12 @@ a,
   transition: all 300ms ease;
 }
 
-naviagtion,
+nav,
 .naviagtion-links {
   display: flex;
 }
 
-naviagtion {
+nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
