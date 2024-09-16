@@ -18,7 +18,7 @@
 
 <body>
 
-    <naviagtion id="desktop-naviagtion">
+    <nav id="desktop-naviagtion">
 
         <div class="logo">Luis Gornes</div>
 
@@ -26,19 +26,18 @@
 
             <ul class="naviagtion-links">
 
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#profile">Resume</a></li>
-                <li><a href="#contact">Contact</a></li>
-
+                    <li><a href="#about" onclick="toggleDropdown()">About</a></li>
+                    <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
+                    <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
+                    <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
+                    <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
             </ul>
 
         </div>
 
-    </naviagtion>
+    </nav>
 
-    <naviagtion id="dropdown-naviagtion">
+    <nav id="dropdown-naviagtion">
 
         <div class="logo">Luis Gornes</div>
 
@@ -55,17 +54,20 @@
 
             <div class="menu-links">
 
-                <li><a href="#about" onclick="toggleDropdown()">About</a></li>
-                <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
-                <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
-                <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
-                <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
+                <ul>
+
+                    <li><a href="#about" onclick="toggleDropdown()">About</a></li>
+                    <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
+                    <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
+                    <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
+                    <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
+                </ul>
 
             </div>
 
         </div>
 
-    </naviagtion>
+    </nav>
 
     <section id="profile">
 
@@ -79,11 +81,11 @@
 
             <p class="textSection-p1">Hi, I am</p>
             <h1 class="title">Luis Gornes</h1>
-            <p class="textSection-p2">Multi-Language Programmer, Software & Full-Stack Web Developer</p>
+            <p class="textSection-p2">Multi-Language Programmer, Software & Web Developer, and Tutor.</p>
 
             <div class="button-container">
 
-                <button class="button button-color-2" onclick="window.open('./assests/Luis GornesResume2024Updated.pdf', '_blank')">Resume</button>
+                <button class="button button-color-2" onclick="window.open('./assests/Luis Gornes Resume 2024 New Expert Updated.pdf', '_blank')">Resume</button>
 
             </div>
 
@@ -101,7 +103,7 @@
     <section id="about">
 
         <h1 class="title">About Me</h1>
-        <br>
+
         <div class="section-container">
 
             <div class="section-pic-container">
@@ -119,7 +121,7 @@
                         <img src="./assests/experience2.png" alt="Experience" class="logo" />
                         <h3>Work Experience/Skills</h3>
                         <p>4+ years
-                            <br />Multi-Language programming & tutoring</p>
+                            <br/>Multi-Language programming & tutoring</p>
 
                     </div>
 
@@ -151,7 +153,7 @@
     </section>
 
     <section id="skills">
-    
+
         <h1 class="title">Skills</h1>
 
         <div class="experience-details-container">
@@ -168,37 +170,37 @@
 
                             <div class="bar">
 
-                                <div class="bar-inner" style="width: 95%;">
-                                    <div class="percent-text">95%</div>
-                                </div>
-
-                            </div>
-
-                            <br></br>
-
-                            <div class="bar-title">Python</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 80%;">
-                                    <div class="percent-text">80%</div>
-                                </div>
-
-                            </div>
-
-                            <br></br>
-
-                            <div class="bar-title">Java/JavaScript</div>
-
-                            <div class="bar">
-
                                 <div class="bar-inner" style="width: 85%;">
                                     <div class="percent-text">85%</div>
                                 </div>
 
                             </div>
 
-                            <br></br>
+                            <br>
+
+                            <div class="bar-title">Python</div>
+
+                            <div class="bar">
+
+                                <div class="bar-inner" style="width: 75%;">
+                                    <div class="percent-text">75%</div>
+                                </div>
+
+                            </div>
+
+                            <br>
+
+                            <div class="bar-title">Java/JavaScript</div>
+
+                            <div class="bar">
+
+                                <div class="bar-inner" style="width: 90%;">
+                                    <div class="percent-text">90%</div>
+                                </div>
+
+                            </div>
+
+                            <br>
 
                             <div class="bar-title">HTML/CSS</div>
 
@@ -210,7 +212,7 @@
 
                             </div>
 
-                            <br></br>
+                            <br>
 
                             <div class="bar-title">Microsoft Office Skills</div>
 
@@ -233,8 +235,7 @@
                     <h2 class="experience-sub-title">Overview</h2>
 
                     <div>
-                      <p>The skill percentage is based in language manipulation and ability to utilize the language. 
-                     The skills I have accumulated have been developed over several years, going back to 7-8 years ago when I was still in middle school. 
+                      <p><br>The skills I have accumulated have been developed over several years, going back to 7-8 years ago when I was still in middle school. 
                       It was during this time that I first encountered HTML, which sparked my interest in coding. 
                       I decided to take it upon myself to further practice HTML and CSS on my own at home. 
                       In high school, my passion for programming continued to grow, and I enrolled in classes for C++ and Java/JavaScript. 
@@ -255,7 +256,7 @@
     </section>
 
     <section id="projects">
-        
+
         <h1 class="title">Projects</h1>
 
         <div class="experience-details-container">
@@ -274,7 +275,9 @@
 
                     <div class="button-container">
 
-                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">Github</button>
+                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">
+                            Github 
+                        </button>
 
                     </div>
 
@@ -292,10 +295,14 @@
 
                     <div class="button-container">
 
-                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/2023Portfolio', '_blank')">Github</button>
+                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/2023Portfolio', '_blank')" >
+                            Github
+                        </button>
 
-                        <button class="button button-color-2 project-button" onclick="window.open('https://luis33k.github.io/2023Portfolio/', '_blank')">Live</button>
-                        
+                        <button class="button button-color-2 project-button" onclick="window.open('https://luis33k.github.io/2023Portfolio/', '_blank')">
+                            Live
+                        </button>
+
                     </div>
 
                 </div>
@@ -304,13 +311,16 @@
 
                     <div class="article-container">
 
-                        <img src="./assests/villas.png" alt="Project Villas" class="project-img"/>
+                        <img src="./assests/villas.png" alt="Project Villas" class="project-img" />
 
                     </div>
 
                     <h2 class="experience-sub-title project-title">Broward Villas Website</h2>
 
-                    <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">Github</button>
+                    <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">
+                        Github
+                    </button>
+
 
                 </div>
 
@@ -321,12 +331,11 @@
     </section>
 
     <section id="contact">
-    
         <h1 class="title">Contact Me</h1>
         <div class="contact-info-upper-container">
             <div class="contact-info-container">
                 <img src="./assests/email.png" alt="Email logo" class="logo contact-logo email-logo" />
-                <p><a href="mailto:luisgornes@hotmail.com">luisgornes@hotmail.com</a></p>
+                <p><a href="mailto:luisgornes@hotmail.com">LuisGornes@hotmail.com</a></p>
             </div>
             <div class="contact-info-container">
                 <img src="./assests/linkedin.png" alt="LinkedIn logo" class="logo contact-logo" />
@@ -335,10 +344,10 @@
         </div>
     </section>
 
-</body>
+
 
 <footer>
-    <naviagtion>
+    <nav>
         <div class="naviagtion-links-container">
             <ul class="naviagtion-links">
                 <li><a href="#about">About</a></li>
@@ -348,8 +357,10 @@
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
-    </naviagtion>
+    </nav>
     <p>Copyright &#169; 2024 Luis Gornes. All Rights Reserved.</p>
 </footer>
+
+</body>
 
 </html>
