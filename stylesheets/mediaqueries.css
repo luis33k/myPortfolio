@@ -28,13 +28,13 @@
 }
 
 @media screen and (max-width: 1200px) {
-  #desktop-naviagtion {
+  #desktop-nav {
     display: none;
   }
   button {
   color: #000;
   }
-  #dropdown-naviagtion {
+  #dropdown-nav {
     display: flex;
   }
   #skills,
@@ -107,7 +107,7 @@
     margin: 0;
   }
   .contact-info-container p,
-  .naviagtion-links li a {
+  .nav-links li a {
     font-size: 1rem;
   }
   .experience-sub-title {
@@ -116,7 +116,7 @@
   .logo {
     font-size: 1.5rem;
   }
-  .naviagtion-links {
+  .nav-links {
     flex-direction: column;
     gap: 0.5rem;
     text-align: center;

@@ -25,7 +25,7 @@ a,
 }
 
 nav,
-.naviagtion-links {
+.nav-links {
   display: flex;
 }
 
@@ -35,7 +35,7 @@ nav {
   height: 17vh;
 }
 
-.naviagtion-links {
+.nav-links {
   gap: 2rem;
   list-style: none;
   font-size: 1.5rem;
@@ -62,7 +62,7 @@ a:hover {
   cursor: default;
 }
 
-#dropdown-naviagtion {
+#dropdown-nav {
   display: none;
 }
 
