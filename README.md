@@ -1,2 +1,2 @@
 # myPortfolio
-Luis Gornes. This is my portfolio for COP3808C.
+I am Luis Gornes. This is my portfolio.
