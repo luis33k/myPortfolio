@@ -1,389 +1,405 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Luis Gornes">
-    <meta name="description" content="Luis Gornes's portfolio showcasing his skills and experiences as a programmer and web developer.">
-    <meta name="keywords" content="Luis Gornes, portfolio, programmer, web developer, tutor">
-    <link rel="icon" href="assests/logo.png" type="image/png">
-    <link rel="stylesheet" type="text/css" href="stylesheets/styles.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/mediaqueries.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Luis Gornes" />
+    <meta
+      name="description"
+      content="Luis Gornes's portfolio showcasing his skills and experiences as a programmer and web developer."
+    />
+    <meta
+      name="keywords"
+      content="Luis Gornes, portfolio, programmer, web developer, tutor"
+    />
+    <link rel="icon" href="assests/logo.png" type="image/png" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/styles.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="stylesheets/mediaqueries.css"
+    />
     <script src="js/scripts.js"></script>
     <title>Luis Gornes Portfolio</title>
+  </head>
 
-</head>
-
-<body>
-
+  <body>
     <nav id="desktop-nav">
+      <div class="logo">Luis Gornes</div>
 
-        <div class="logo">Luis Gornes</div>
-
-        <div>
-
-            <ul class="nav-links">
-
-                    <li><a href="#about" onclick="toggleDropdown()">About</a></li>
-                    <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
-                    <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
-                    <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
-                    <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
-            </ul>
-
-        </div>
-
+      <div>
+        <ul class="nav-links">
+          <li><a href="#about" onclick="toggleDropdown()">About</a></li>
+          <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
+          <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
+          <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
+          <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
+        </ul>
+      </div>
     </nav>
 
     <nav id="dropdown-nav">
+      <div class="logo">Luis Gornes</div>
 
-        <div class="logo">Luis Gornes</div>
-
-        <div class="dropdown-menu">
-
-            <div class="dropdown-logo" onclick="toggleMenu()">
-
-                <!-- lines for drop down menu -->
-                <span></span>
-                <span></span>
-                <span></span>
-
-            </div>
-
-            <div class="menu-links">
-
-                <ul>
-
-                    <li><a href="#about" onclick="toggleDropdown()">About</a></li>
-                    <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
-                    <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
-                    <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
-                    <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
-                </ul>
-
-            </div>
-
+      <div class="dropdown-menu">
+        <div class="dropdown-logo" onclick="toggleMenu()">
+          <!-- lines for drop down menu -->
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
 
+        <div class="menu-links">
+          <ul>
+            <li><a href="#about" onclick="toggleDropdown()">About</a></li>
+            <li><a href="#skills" onclick="toggleDropdown()">Skills</a></li>
+            <li><a href="#projects" onclick="toggleDropdown()">Projects</a></li>
+            <li><a href="#profile" onclick="toggleDropdown()">Resume</a></li>
+            <li><a href="#contact" onclick="toggleDropdown()">Contact</a></li>
+          </ul>
+        </div>
+      </div>
     </nav>
 
     <section id="profile">
+      <div class="section-pic-container">
+        <img
+          src="./assests/proheadshot.jpg"
+          alt="Luis Gornes Picture"
+          class="about-pic"
+        />
+      </div>
 
-        <div class="section-pic-container">
+      <div class="textSection">
+        <p class="textSection-p1">Hi, I am</p>
+        <h1 class="title">Luis Gornes</h1>
+        <p class="textSection-p2">
+          Full Stack Software & Web Developer and Tutor
+        </p>
 
-            <img src="./assests/proheadshot.jpg" alt="Luis Gornes Picture" class="about-pic" />
-
+        <div class="button-container">
+          <button
+            class="button button-color-2"
+            onclick="window.open('./assests/end of 2024 LinkedIn portfolio.pdf', '_blank')"
+          >
+            Resume
+          </button>
         </div>
 
-        <div class="textSection">
-
-            <p class="textSection-p1">Hi, I am</p>
-            <h1 class="title">Luis Gornes</h1>
-            <p class="textSection-p2">Full Stack Software & Web Developer and Tutor</p>
-
-            <div class="button-container">
-
-                <button class="button button-color-2" onclick="window.open('./assests/end of 2024 LinkedIn portfolio.pdf', '_blank')">Resume</button>
-
-            </div>
-
-            <div id="socials-container">
-
-                <img src="./assests/linkedin.png" alt="My LinkedIn profile" class="logo" onclick="window.open('https://www.linkedin.com/in/luis-g-688356b5/', '_blank')" />
-                <img src="./assests/github.png" alt="My Github profile" class="logo" onclick="window.open('https://github.com/luis33k/', '_blank')" />
-
-            </div>
-
+        <div id="socials-container">
+          <img
+            src="./assests/linkedin.png"
+            alt="My LinkedIn profile"
+            class="logo"
+            onclick="window.open('https://www.linkedin.com/in/luis-g-688356b5/', '_blank')"
+          />
+          <img
+            src="./assests/github.png"
+            alt="My Github profile"
+            class="logo"
+            onclick="window.open('https://github.com/luis33k/', '_blank')"
+          />
         </div>
-
+      </div>
     </section>
 
     <section id="about">
+      <h1 class="title">About Me</h1>
 
-        <h1 class="title">About Me</h1>
-
-        <div class="section-container">
-
-            <div class="section-pic-container">
-
-                <img src="./assests/proheadshot2-cropped.jpg" alt="Luis G picture" class="about-pic" />
-
-            </div>
-
-            <div class="about-details-container">
-
-                <div class="about-containers">
-
-                    <div class="details-container">
-
-                        <img src="./assests/experience2.png" alt="Experience" class="logo" />
-                        <h3>Work Experience/Skills</h3>
-                        <p>4+ years
-                            <br/>Multi-Language programming & tutoring</p>
-
-                    </div>
-
-                    <div class="details-container">
-
-                        <img src="./assests/education.png" alt="Education logo" class="logo" />
-                        <h3>Education</h3>
-                        <p>B.A.S. Information Technology: Web development & <br> Computer Science</p>
-
-                    </div>
-
-                </div>
-
-                <div class="text-container">
-
-                    <p>
-                        I love coding in C++, HTML, CSS, Java, and Python. My heart resonated with the languages of code. The fervor for programming courses grew, fuelling my pursuit of a bright future. I help other students and also get involved in group IT projects and events.
-                        I teach students how to improve their programming and computer skills, and I really enjoy being an expert-level tutor. I'm ready for the challenges and opportunities in my future. In the spring of 2023, I got accepted into a Bachelor's
-                        Degree program with the goal of graduating in 2025 with a Bachelor of Science degree in Information Technology - Web Development. My time at Broward College has been more than just school; it's been an exciting journey. Besides
-                        my studies, I've been working as a tutor at Broward College.
-                    </p>
-                      
-                </div>
-
-            </div>
-
+      <div class="section-container">
+        <div class="section-pic-container">
+          <img
+            src="./assests/proheadshot2-cropped.jpg"
+            alt="Luis G picture"
+            class="about-pic"
+          />
         </div>
 
+        <div class="about-details-container">
+          <div class="about-containers">
+            <div class="details-container">
+              <img
+                src="./assests/experience2.png"
+                alt="Experience"
+                class="logo"
+              />
+              <h3>Work Experience/Skills</h3>
+              <p>4+ years <br />Multi-Language programming & tutoring</p>
+            </div>
+
+            <div class="details-container">
+              <img
+                src="./assests/education.png"
+                alt="Education logo"
+                class="logo"
+              />
+              <h3>Education</h3>
+              <p>
+                B.A.S. Information Technology: Web development & <br />
+                Computer Science
+              </p>
+            </div>
+          </div>
+
+          <div class="text-container">
+            <p>
+              I love coding in C++, HTML, CSS, Java, and Python. My heart
+              resonated with the languages of code. The fervor for programming
+              courses grew, fuelling my pursuit of a bright future. I help other
+              students and also get involved in group IT projects and events. I
+              teach students how to improve their programming and computer
+              skills, and I really enjoy being an expert-level tutor. I'm ready
+              for the challenges and opportunities in my future. In the spring
+              of 2023, I got accepted into a Bachelor's Degree program with the
+              goal of graduating in 2025 with a Bachelor of Science degree in
+              Information Technology - Web Development. My time at Broward
+              College has been more than just school; it's been an exciting
+              journey. Besides my studies, I've been working as a tutor at
+              Broward College.
+            </p>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section id="skills">
+      <h1 class="title">Skills</h1>
 
-        <h1 class="title">Skills</h1>
+      <div class="experience-details-container">
+        <div class="about-containers">
+          <div class="details-container">
+            <div>
+              <div class="percentage-bars">
+                <div class="bar-title">C++</div>
 
-        <div class="experience-details-container">
-
-            <div class="about-containers">
-
-                <div class="details-container">
-
-                    <div>
-
-                        <div class="percentage-bars">
-
-                            <div class="bar-title">C++</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 95%;">
-                                    <div class="percent-text">95%</div>
-                                </div>
-
-                            </div>
-
-                            <br>
-
-                            <div class="bar-title">Java/JavaScript</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 85%;">
-                                    <div class="percent-text">85%</div>
-                                </div>
-
-                            </div>
-
-                            <br>
-
-                            <div class="bar-title">Python</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 80%;">
-                                    <div class="percent-text">80%</div>
-                                </div>
-
-                            </div>
-
-                            <br>
-
-                            <div class="bar-title">HTML/CSS</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 90%;">
-                                    <div class="percent-text">90%</div>
-                                </div>
-
-                            </div>
-                            
-                            <br>
-
-                            <div class="bar-title">PHP/MySQL</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 80%;">
-                                    <div class="percent-text">80%</div>
-                                </div>
-
-                            </div>
-                            
-                            <br>
-
-                            <div class="bar-title">Microsoft Office Skills</div>
-
-                            <div class="bar">
-
-                                <div class="bar-inner" style="width: 100%;">
-                                    <div class="percent-text">100%</div>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
+                <div class="bar">
+                  <div class="bar-inner" style="width: 95%">
+                    <div class="percent-text">95%</div>
+                  </div>
                 </div>
 
-                <div class="details-container2">
+                <br />
 
-                    <h2 class="experience-sub-title">Overview</h2>
+                <div class="bar-title">Java/JavaScript</div>
 
-                    <div>
-                      <p>The skills I have accumulated have been developed over several years, going back to 7-8 years ago when I was still in middle school. 
-                      It was during this time that I first encountered HTML, which sparked my interest in coding. 
-                      I decided to take it upon myself to further practice HTML and CSS on my own at home. 
-                      In high school, my passion for programming continued to grow, and I enrolled in classes for C++ and Java/JavaScript. 
-                      I was drawn to the world of programming, especially in the context of creating computer games using Java, C++, Python, and JavaScript. 
-                      This motivated me to not only take classes in school, starting from middle school to high school but also to pursue a degree in Computer Science and Information Technology. 
-                      Throughout my college journey from 2018-17, I delved deeper into programming and began taking it even more seriously. 
-                      You can find my LinkedIn certificates and my resume on the main page of this website. 
-                      Feel free to visit the "Contact" section to reach out with any questions or to obtain further evidence of my knowledge and expertise.
-                      </p>
-                    </div>
-
+                <div class="bar">
+                  <div class="bar-inner" style="width: 85%">
+                    <div class="percent-text">85%</div>
+                  </div>
                 </div>
 
+                <br />
+
+                <div class="bar-title">Python</div>
+
+                <div class="bar">
+                  <div class="bar-inner" style="width: 80%">
+                    <div class="percent-text">80%</div>
+                  </div>
+                </div>
+
+                <br />
+
+                <div class="bar-title">HTML/CSS</div>
+
+                <div class="bar">
+                  <div class="bar-inner" style="width: 90%">
+                    <div class="percent-text">90%</div>
+                  </div>
+                </div>
+
+                <br />
+
+                <div class="bar-title">PHP/MySQL</div>
+
+                <div class="bar">
+                  <div class="bar-inner" style="width: 80%">
+                    <div class="percent-text">80%</div>
+                  </div>
+                </div>
+
+                <br />
+
+                <div class="bar-title">Microsoft Office Skills</div>
+
+                <div class="bar">
+                  <div class="bar-inner" style="width: 100%">
+                    <div class="percent-text">100%</div>
+                  </div>
+                </div>
+              </div>
             </div>
+          </div>
 
+          <div class="details-container2">
+            <h2 class="experience-sub-title">Overview</h2>
+
+            <div>
+              <p>
+                The skills I have accumulated have been developed over several
+                years, going back to 7-8 years ago when I was still in middle
+                school. It was during this time that I first encountered HTML,
+                which sparked my interest in coding. I decided to take it upon
+                myself to further practice HTML and CSS on my own at home. In
+                high school, my passion for programming continued to grow, and I
+                enrolled in classes for C++ and Java/JavaScript. I was drawn to
+                the world of programming, especially in the context of creating
+                computer games using Java, C++, Python, and JavaScript. This
+                motivated me to not only take classes in school, starting from
+                middle school to high school but also to pursue a degree in
+                Computer Science and Information Technology. Throughout my
+                college journey from 2018-17, I delved deeper into programming
+                and began taking it even more seriously. You can find my
+                LinkedIn certificates and my resume on the main page of this
+                website. Feel free to visit the "Contact" section to reach out
+                with any questions or to obtain further evidence of my knowledge
+                and expertise.
+              </p>
+            </div>
+          </div>
         </div>
-
+      </div>
     </section>
 
     <section id="projects">
+      <h1 class="title">Projects</h1>
 
-        <h1 class="title">Projects</h1>
-
-        <div class="experience-details-container">
-
-            <div class="about-containers">
-
-                <div class="details-container color-container">
-
-                    <div class="article-container">
-
-                        <img src="./assests/Zen.png" alt="CSS Zen Garden Porject" class="project-img" />
-
-                    </div>
-
-                    <h2 class="experience-sub-title project-title">CSS Zen Garden</h2>
-
-                    <div class="button-container">
-
-                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">
-                            Github 
-                        </button>
-
-                        <button class="button button-color-2 project-button" onclick="window.open('https://luis33k.github.io/cssZenGarden/', '_blank')">
-                            Live Demo
-                        </button>
-
-                    </div>
-
-                </div>
-
-                <div class="details-container color-container">
-
-                    <div class="article-container">
-
-                        <img src="./assests/2023port.png" alt="2023 Portfolio Porject" class="project-img" />
-
-                    </div>
-
-                    <h2 class="experience-sub-title project-title">2023 Portfolio</h2>
-
-                    <div class="button-container">
-
-                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/2023Portfolio', '_blank')" >
-                            Github
-                        </button>
-
-                        <button class="button button-color-2 project-button" onclick="window.open('https://luis33k.github.io/2023Portfolio/', '_blank')">
-                            Live Demo
-                        </button>
-
-                    </div>
-
-                </div>
-
-                <div class="details-container color-container">
-
-                    <div class="article-container">
-
-                        <img src="./assests/villas.png" alt="Project Villas" class="project-img" />
-
-                    </div>
-
-                    <h2 class="experience-sub-title project-title">Broward Villas Website</h2>
-
-                    <div class="button-container">
-
-                        <button class="button button-color-2 project-button" onclick="window.open('https://github.com/luis33k/', '_blank')">
-                            Github
-                        </button>
-                    
-                        <button class="button button-color-2 project-button" onclick="window.open('https://luis33k.github.io/browardVillas/', '_blank')">
-                            Live Demo
-                        </button>
-
-                    </div>
-                    
-                </div>
-
+      <div class="experience-details-container">
+        <div class="about-containers">
+          <div class="details-container color-container">
+            <div class="article-container">
+              <img
+                src="./assests/villas.png"
+                alt="Project Villas"
+                class="project-img"
+              />
             </div>
 
-        </div>
+            <h2 class="experience-sub-title project-title">
+              Broward Villas Website
+            </h2>
 
+            <div class="button-container">
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://github.com/luis33k/browardVillas', '_blank')"
+              >
+                Github
+              </button>
+
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://luis33k.github.io/browardVillas/', '_blank')"
+              >
+                Live Demo
+              </button>
+            </div>
+          </div>
+
+          <div class="details-container color-container">
+            <div class="article-container">
+              <img
+                src="./assests/2023port.png"
+                alt="2023 Portfolio Porject"
+                class="project-img"
+              />
+            </div>
+
+            <h2 class="experience-sub-title project-title">2023 Portfolio</h2>
+
+            <div class="button-container">
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://github.com/luis33k/2023Portfolio', '_blank')"
+              >
+                Github
+              </button>
+
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://luis33k.github.io/2023Portfolio/', '_blank')"
+              >
+                Live Demo
+              </button>
+            </div>
+          </div>
+
+          <div class="details-container color-container">
+            <div class="article-container">
+              <img
+                src="./assests/pure.png"
+                alt="PureAgua"
+                class="project-img"
+              />
+            </div>
+
+            <h2 class="experience-sub-title project-title">
+              PureAgua Non-profit
+            </h2>
+
+            <div class="button-container">
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://github.com/luis33k/pureAgua', '_blank')"
+              >
+                Github
+              </button>
+
+              <button
+                class="button button-color-2 project-button"
+                onclick="window.open('https://luis33k.github.io/pureAgua/', '_blank')"
+              >
+                Live Demo
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section id="contact">
-        <h1 class="title">Contact Me</h1>
-        <div class="contact-info-upper-container">
-            <div class="contact-info-container">
-                <img src="./assests/email.png" alt="Email logo" class="logo contact-logo email-logo" />
-                <p><a href="mailto:luisgornes@hotmail.com">LuisGornes@hotmail.com</a></p>
-            </div>
-            <div class="contact-info-container">
-                <img src="./assests/linkedin.png" alt="LinkedIn logo" class="logo contact-logo" />
-                <p><a href="https://www.linkedin.com/in/luis-g-688356b5/" target="_blank">LinkedIn</a></p>
-            </div>
+      <h1 class="title">Contact Me</h1>
+      <div class="contact-info-upper-container">
+        <div class="contact-info-container">
+          <img
+            src="./assests/email.png"
+            alt="Email logo"
+            class="logo contact-logo email-logo"
+          />
+          <p>
+            <a href="mailto:luisgornes@hotmail.com">LuisGornes@hotmail.com</a>
+          </p>
         </div>
+        <div class="contact-info-container">
+          <img
+            src="./assests/linkedin.png"
+            alt="LinkedIn logo"
+            class="logo contact-logo"
+          />
+          <p>
+            <a
+              href="https://www.linkedin.com/in/luis-g-688356b5/"
+              target="_blank"
+              >LinkedIn</a
+            >
+          </p>
+        </div>
+      </div>
     </section>
 
-
-
-<footer>
-    <nav>
+    <footer>
+      <nav>
         <div class="nav-links-container">
-            <ul class="nav-links">
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#profile">Resume</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+          <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#profile">Resume</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
         </div>
-    </nav>
-    <p>Copyright &#169; 2024 Luis Gornes. All Rights Reserved.</p>
-</footer>
-
-</body>
-
+      </nav>
+      <p>Copyright &#169; 2024 Luis Gornes. All Rights Reserved.</p>
+    </footer>
+  </body>
 </html>
