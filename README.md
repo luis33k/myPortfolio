@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Web Development Portfolio! 🚀
 
-Hello and welcome! I am Luis Gornes. This is my 2024 portfolio. I'm a passionate and driven web developer, and this portfolio is a showcase of my skills, education, work experience, and recent projects. Everything you see here has been built **from scratch**, using only **HTML**, **CSS**, and **JavaScript**—no frameworks or shortcuts, just clean, well-organized, and responsive code that delivers results. My goal is to create seamless, visually appealing, and interactive web experiences that stand out.
+Hello and welcome! I am Luis Gornes. This is my 2025 portfolio. I'm a passionate and driven web developer, and this portfolio is a showcase of my skills, education, work experience, and recent projects. Everything you see here has been built **from scratch**, using only **HTML**, **CSS**, and **JavaScript**—no frameworks or shortcuts, just clean, well-organized, and responsive code that delivers results. My goal is to create seamless, visually appealing, and interactive web experiences that stand out.
 
 ## 🔧 Skills & Expertise:
 As a web developer, I’ve honed my skills in creating intuitive, responsive, and interactive websites. Here's a look at my core strengths:
