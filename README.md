@@ -8,12 +8,18 @@ As a web developer, I’ve honed my skills in creating intuitive, responsive, an
 - **HTML**: Crafting the backbone of every webpage with semantic, accessible, and well-structured markup. I ensure that all content is properly structured to enhance accessibility and search engine optimization (SEO).
 - **CSS**: Designing beautiful, fluid, and responsive layouts that adapt perfectly to all screen sizes. I make use of modern CSS techniques such as Flexbox, Grid, and CSS animations to deliver polished, mobile-first designs.
 - **JavaScript**: Bringing websites to life with interactive features, dynamic content, and seamless user experiences. From DOM manipulation to advanced app functionality, I use JavaScript to add value and enhance engagement.
+- **C++**: Developing high-performance applications and solutions with an emphasis on efficiency and robust programming techniques.
+- **Python**: Utilizing Python for data analysis, scripting, automation, and developing backend services that support modern web applications.
+- **C#**: Building scalable and efficient applications, including Windows-based software and game development using Unity.
+- **PHP**: Crafting dynamic server-side applications with a focus on clean, maintainable code and database integration.
+- **Java**: Creating cross-platform applications and back-end systems, leveraging Java’s versatility and scalability.
+- **React.js**: Building dynamic, single-page web applications with reusable UI components, ensuring a seamless user experience.
 - **Version Control**: Mastering Git and GitHub for version control and collaboration. I use Git to keep track of changes, manage project versions, and collaborate with others efficiently.
 
 ## 🎓 Education & Background:
 My journey in web development began with a desire to learn, grow, and create. I’ve built a strong foundation through both formal education and continuous self-improvement. 
 
-- **Formal Education**: I’ve taken part in web development boot camps, online courses, and coding challenges to gain a well-rounded understanding of the field. My academic background includes studies in computer science, which gave me a solid understanding of programming principles and problem-solving techniques.
+- **Formal Education**: Bachelors in Informaiton Technology: Web Development. I’ve taken part in web development boot camps, online courses, and coding challenges to gain a well-rounded understanding of the field. My academic background includes studies in computer science, which gave me a solid understanding of programming principles and problem-solving techniques.
 - **Self-Learning**: In addition to formal education, I’m an avid learner who constantly seeks out new tutorials, resources, and tools. I’m deeply committed to staying updated on the latest trends in web technologies to ensure that I’m always improving my craft and delivering the best possible solutions.
 
 ## 🛠️ Work Experience & Background:
