@@ -46,6 +46,31 @@ What makes me unique as a web developer is my approach to every project. I’m d
 - **Responsive Design**: Every project I build is designed with a mobile-first, responsive approach. I ensure that the design looks great and functions seamlessly on all devices—smartphones, tablets, and desktops.
 - **Attention to Detail**: From small UI interactions to overall user flow, I believe that the little things matter. I ensure that every aspect of the user experience is polished, intuitive, and enjoyable.
 
+## 👨‍💻 Need a Website? Work With Me! 
+I’m a web developer and designer specializing in fast, clean, and responsive websites for individuals, small businesses, and creative projects. Whether you're starting from scratch or need a fresh redesign, I can help you get online with a site that reflects your vision.
+
+🔧 Services I Offer:
+- **Custom websites (from scratch or redesigns)**
+- **WordPress setup + customization**
+- **Landing pages and link-in-bio sites**
+- **Personal portfolios or blog sites**
+- **Site performance optimization**
+- **Free website audits (limited slots)**
+
+🎯 Who I Work With & love helping:
+- **Small business owners**
+- **Creators and freelancers**
+- **Students and recent grads**
+- **Faith-based brands and churches**
+- **Anyone needing a clean, reliable site**
+
+Interested? Have questions?
+
+📧 Email me: [luisgornes@hotmail.com]  
+🌐 contact me (or message me on [LinkedIn])
+
+Let’s talk about your idea and see how I can help. I usually respond within a day.
+
 ## 🔗 Let’s Connect:
 I’m always excited to collaborate, share ideas, and explore new opportunities. Whether you’re looking for a developer to help with a project, want to discuss a potential collaboration, or just want to chat about the latest trends in web development, I’d love to hear from you!
 
