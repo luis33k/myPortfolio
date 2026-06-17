@@ -1,79 +1,154 @@
-# 🚀 Welcome to My Web Development Portfolio! 🚀
+# 🚀 Luis Gornes Portfolio
 
-Hello and welcome! I am Luis Gornes. This is my 2026 portfolio. I'm a passionate and driven web developer, and this portfolio is a showcase of my skills, education, work experience, and recent projects. Everything you see here has been built **from scratch**, using only **HTML**, **CSS**, and **JavaScript**—no frameworks or shortcuts, just clean, well-organized, and responsive code that delivers results. My goal is to create seamless, visually appealing, and interactive web experiences that stand out.
+Welcome! I'm **Luis Gornes**, a Web Developer, Editor, and Graphic Designer with a passion for creating modern digital experiences and solving real-world problems through technology.
 
-## 🔧 Skills & Expertise:
-As a web developer, I’ve honed my skills in creating intuitive, responsive, and interactive websites. Here's a look at my core strengths:
+This portfolio showcases my education, professional experience, technical skills, and personal projects. The website itself was built from scratch using **HTML, CSS, and JavaScript**, emphasizing clean code, responsiveness, and performance.
 
-- **HTML**: Crafting the backbone of every webpage with semantic, accessible, and well-structured markup. I ensure that all content is properly structured to enhance accessibility and search engine optimization (SEO).
-- **CSS**: Designing beautiful, fluid, and responsive layouts that adapt perfectly to all screen sizes. I make use of modern CSS techniques such as Flexbox, Grid, and CSS animations to deliver polished, mobile-first designs.
-- **JavaScript**: Bringing websites to life with interactive features, dynamic content, and seamless user experiences. From DOM manipulation to advanced app functionality, I use JavaScript to add value and enhance engagement.
-- **C++**: Developing high-performance applications and solutions with an emphasis on efficiency and robust programming techniques.
-- **Python**: Utilizing Python for data analysis, scripting, automation, and developing backend services that support modern web applications.
-- **C#**: Building scalable and efficient applications, including Windows-based software and game development using Unity.
-- **PHP**: Crafting dynamic server-side applications with a focus on clean, maintainable code and database integration.
-- **Java**: Creating cross-platform applications and back-end systems, leveraging Java’s versatility and scalability.
-- **React.js**: Building dynamic, single-page web applications with reusable UI components, ensuring a seamless user experience.
-- **Version Control**: Mastering Git and GitHub for version control and collaboration. I use Git to keep track of changes, manage project versions, and collaborate with others efficiently.
+---
 
-## 🎓 Education & Background:
-My journey in web development began with a desire to learn, grow, and create. I’ve built a strong foundation through both formal education and continuous self-improvement. 
+## 👨‍💻 About Me
 
-- **Formal Education**: Bachelors in Informaiton Technology: Web Development. I’ve taken part in web development boot camps, online courses, and coding challenges to gain a well-rounded understanding of the field. My academic background includes studies in computer science, which gave me a solid understanding of programming principles and problem-solving techniques.
-- **Self-Learning**: In addition to formal education, I’m an avid learner who constantly seeks out new tutorials, resources, and tools. I’m deeply committed to staying updated on the latest trends in web technologies to ensure that I’m always improving my craft and delivering the best possible solutions.
+I am a Web Development graduate with over six years of experience in programming, IT support, tutoring, multimedia production, and digital content creation.
 
-## 🛠️ Work Experience & Background:
-Throughout my career, I've had the opportunity to work on a wide range of projects, from freelance assignments to collaborations with businesses and startups. Some key highlights include:
+My background combines technical problem-solving with creativity through:
 
-- **Freelance Projects**: Over the years, I’ve worked with a variety of clients to create custom websites, landing pages, and web applications. These experiences have taught me how to translate client needs into functional, user-friendly designs.
-- **Collaborations**: I've worked on team projects where I collaborated with designers, back-end developers, and project managers. This experience has taught me how to effectively communicate, problem-solve, and ensure that all aspects of the project are aligned with the client’s goals.
-- **Client-Focused Development**: Every project I take on is treated with the utmost care, ensuring that the final product is high-quality, responsive, and meets the user’s needs. I take pride in delivering results that my clients can be proud of.
+* Full-Stack Web Development
+* Graphic Design
+* Video Editing & Multimedia Production
+* Computer Science Tutoring
+* IT Support & Troubleshooting
+* Content Creation & Social Media Management
 
-## 💡 Recent Projects:
-My portfolio includes a variety of exciting and dynamic projects that demonstrate my ability to solve real-world problems using front-end technologies. Some of my recent work includes:
+I graduated from Broward College with a Bachelor of Applied Science in Information Technology with a concentration in Web Development, along with an Advanced Technical Certificate in Information Technology Support.
 
-- **Fully Responsive Portfolio**: A mobile-first, fully responsive portfolio that adapts beautifully to any screen size. It showcases my skills, experience, and some of my best work.
-- **Dynamic Task Manager App**: A task management application built using vanilla JavaScript. It features real-time interaction, with the ability to add, delete, and edit tasks on the fly. This project demonstrates my proficiency in DOM manipulation and working with JavaScript’s event-driven model.
-- **Interactive Landing Page**: A landing page for a startup that uses smooth animations, transitions, and a modern design approach. The goal was to create an engaging user experience while also providing the necessary information clearly and efficiently.
+---
 
-These projects represent just a small portion of my capabilities and are a testament to my passion for crafting user-centric solutions that are both functional and beautiful.
+## 🛠 Technical Skills
 
-## 📚 What Sets Me Apart:
-What makes me unique as a web developer is my approach to every project. I’m deeply committed to creating high-quality, scalable, and user-friendly websites and applications. Here’s what sets me apart:
+### Languages
 
-- **I Code from Scratch**: I believe that understanding the fundamentals of web development allows me to create more customized and optimized solutions. Coding from the ground up ensures that I have complete control over every aspect of a project.
-- **Focus on Clean Code**: I prioritize writing clean, maintainable, and efficient code. My goal is to make sure that my projects are not only functional but also easy to understand, debug, and scale.
-- **Responsive Design**: Every project I build is designed with a mobile-first, responsive approach. I ensure that the design looks great and functions seamlessly on all devices—smartphones, tablets, and desktops.
-- **Attention to Detail**: From small UI interactions to overall user flow, I believe that the little things matter. I ensure that every aspect of the user experience is polished, intuitive, and enjoyable.
+* HTML
+* CSS
+* JavaScript
+* Python
+* C++
+* Java
+* PHP
+* C#
+* SQL
 
-## 👨‍💻 Need a Website? Work With Me! 
-I’m a web developer and designer specializing in fast, clean, and responsive websites for individuals, small businesses, and creative projects. Whether you're starting from scratch or need a fresh redesign, I can help you get online with a site that reflects your vision.
+### Web Technologies
 
-🔧 Services I Offer:
-- **Custom websites (from scratch or redesigns)**
-- **WordPress setup + customization**
-- **Landing pages and link-in-bio sites**
-- **Personal portfolios or blog sites**
-- **Site performance optimization**
-- **Free website audits (limited slots)**
+* React.js
+* Node.js
+* Express.js
+* REST APIs
+* WordPress
 
-🎯 Who I Work With & love helping:
-- **Small business owners**
-- **Creators and freelancers**
-- **Students and recent grads**
-- **Faith-based brands and churches**
-- **Anyone needing a clean, reliable site**
+### Databases
 
-Interested? Have questions?
+* MySQL
+* MongoDB
 
-📧 Email me: [luisgornes@hotmail.com]  
-🌐 contact me (or message me on [LinkedIn])
+### Tools & Software
 
-Let’s talk about your idea and see how I can help. I usually respond within a day.
+* Git & GitHub
+* Visual Studio Code
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe Premiere Pro
+* Adobe After Effects
+* Microsoft Office Suite
 
-## 🔗 Let’s Connect:
-I’m always excited to collaborate, share ideas, and explore new opportunities. Whether you’re looking for a developer to help with a project, want to discuss a potential collaboration, or just want to chat about the latest trends in web development, I’d love to hear from you!
+---
 
-Feel free to reach out to me through the contact form on my website, or you can message me directly here on GitHub. I’m open to freelance work, full-time opportunities, or just sharing knowledge with other passionate developers.
+## 💼 Experience
 
-Let's connect, collaborate, and build something amazing together! 🚀
+### Computer Science Tutor | Broward College
+
+*2020–2026*
+
+* Tutored students in Python, Java, C++, JavaScript, HTML, CSS, and Microsoft Office.
+* Assisted with technical troubleshooting and IT support.
+* Helped students develop programming and problem-solving skills.
+
+### Freelance Web Developer
+
+*2022–Present*
+
+* Developed responsive websites and web applications.
+* Worked with WordPress and modern web technologies.
+* Integrated APIs and optimized websites for speed and SEO.
+
+### Multimedia & Content Creation
+
+* Video editing using Adobe Creative Cloud.
+* Graphic design and digital media production.
+* Content creation across YouTube, Instagram, Facebook, and TikTok.
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Portfolio Website
+
+A fully responsive personal portfolio built using HTML, CSS, and JavaScript.
+
+### 📈 Power Summit Training
+
+A training platform designed to track workouts and cycling performance.
+
+### 🎮 Catch Quest
+
+Interactive browser-based game developed using JavaScript.
+
+### 🏠 Broward Villas Website
+
+Responsive website showcasing modern front-end development principles.
+
+### 💧 PureAgua Organization
+
+Website project created to provide information and resources for community outreach.
+
+---
+
+## 📚 What Sets Me Apart
+
+* Clean and maintainable code
+* Mobile-first responsive design
+* Strong attention to detail
+* Problem-solving mindset
+* Creative and technical background
+* Experience teaching and mentoring others
+* Continuous learner with a passion for technology
+
+---
+
+## 📬 Contact
+
+📧 Email: **[luisgornes@hotmail.com](mailto:luisgornes@hotmail.com)**
+
+🌐 Portfolio:
+https://luis33k.github.io/myPortfolio/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/luis-g-688356b5
+
+🐙 GitHub:
+https://github.com/luis33k
+
+---
+
+## 🚀 Let's Build Something Great
+
+I'm always interested in opportunities involving:
+
+* Web Development
+* Software Development
+* IT Support
+* Multimedia Production
+* Graphic Design
+* Freelance Projects
+* Creative and Technical Collaboration
+
+Thank you for visiting my portfolio!
