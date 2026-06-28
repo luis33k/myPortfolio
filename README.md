@@ -96,6 +96,9 @@ My goal is to build meaningful digital products while continuously improving as 
 
 ## 📂 Featured Projects
 
+### 🌐 LFG Cycling Website  
+Personal brand focused on reselling, fixing, flipping used bicycles. 
+
 ### 🌐 Portfolio Website  
 Fully responsive personal portfolio built using HTML, CSS, and JavaScript.
 
