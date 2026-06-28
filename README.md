@@ -1,154 +1,164 @@
 # 🚀 Luis Gornes Portfolio
 
-Welcome! I'm **Luis Gornes**, a Web Developer, Editor, and Graphic Designer with a passion for creating modern digital experiences and solving real-world problems through technology.
+Welcome! I'm **Luis Gornes** — a Web Developer, Editor, Graphic Designer, and Creative Technologist focused on building modern digital systems and real-world creative projects.
 
-This portfolio showcases my education, professional experience, technical skills, and personal projects. The website itself was built from scratch using **HTML, CSS, and JavaScript**, emphasizing clean code, responsiveness, and performance.
+This portfolio showcases my education, technical skills, professional experience, and personal projects across software development, multimedia production, and IT systems.
+
+Built from scratch using **HTML, CSS, and JavaScript**, with a focus on clean UI, responsiveness, and performance.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Web Development graduate with over six years of experience in programming, IT support, tutoring, multimedia production, and digital content creation.
+I am a Web Development graduate with 6+ years of experience across programming, IT support, tutoring, multimedia production, and digital content creation.
 
-My background combines technical problem-solving with creativity through:
+My work blends **technical development + creative execution**, including:
 
-* Full-Stack Web Development
-* Graphic Design
-* Video Editing & Multimedia Production
-* Computer Science Tutoring
-* IT Support & Troubleshooting
-* Content Creation & Social Media Management
+- Full-Stack Web Development  
+- Graphic Design & Branding  
+- Video Editing & Multimedia Production  
+- Computer Science Tutoring & Mentorship  
+- IT Support & Troubleshooting  
+- Content Creation & Social Media Strategy  
 
-I graduated from Broward College with a Bachelor of Applied Science in Information Technology with a concentration in Web Development, along with an Advanced Technical Certificate in Information Technology Support.
+I graduated from Broward College with a **Bachelor of Applied Science in Information Technology (Web Development)** along with an **Advanced Technical Certificate in IT Support**.
+
+My goal is to build meaningful digital products while continuously improving as a developer, creator, and problem solver.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### Languages
-
-* HTML
-* CSS
-* JavaScript
-* Python
-* C++
-* Java
-* PHP
-* C#
-* SQL
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- C++  
+- Java  
+- PHP  
+- C#  
+- SQL  
 
 ### Web Technologies
-
-* React.js
-* Node.js
-* Express.js
-* REST APIs
-* WordPress
+- React.js  
+- Node.js  
+- Express.js  
+- REST APIs  
+- WordPress  
 
 ### Databases
-
-* MySQL
-* MongoDB
+- MySQL  
+- MongoDB  
 
 ### Tools & Software
-
-* Git & GitHub
-* Visual Studio Code
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Premiere Pro
-* Adobe After Effects
-* Microsoft Office Suite
+- Git & GitHub  
+- Visual Studio Code  
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Adobe Premiere Pro  
+- Adobe After Effects  
+- Microsoft Office Suite  
 
 ---
 
 ## 💼 Experience
 
-### Computer Science Tutor | Broward College
+### Computer Science Tutor | Broward College  
+*2020 – 2026*
 
-*2020–2026*
+- Tutored students in Python, Java, C++, JavaScript, HTML, CSS, and Microsoft Office  
+- Provided IT support and technical troubleshooting  
+- Helped students build strong programming and problem-solving foundations  
+- Mentored learners in computer science fundamentals  
 
-* Tutored students in Python, Java, C++, JavaScript, HTML, CSS, and Microsoft Office.
-* Assisted with technical troubleshooting and IT support.
-* Helped students develop programming and problem-solving skills.
+---
 
-### Freelance Web Developer
+### Freelance Web Developer  
+*2022 – Present*
 
-*2022–Present*
+- Designed and developed responsive websites and web applications  
+- Worked with WordPress and modern JavaScript frameworks  
+- Integrated APIs and optimized performance & SEO  
+- Built client-focused solutions with clean UI/UX design  
 
-* Developed responsive websites and web applications.
-* Worked with WordPress and modern web technologies.
-* Integrated APIs and optimized websites for speed and SEO.
+---
 
-### Multimedia & Content Creation
+### Multimedia & Content Creation  
+*2022 – Present*
 
-* Video editing using Adobe Creative Cloud.
-* Graphic design and digital media production.
-* Content creation across YouTube, Instagram, Facebook, and TikTok.
+- Video editing using Adobe Creative Cloud  
+- Graphic design and branding content  
+- Content creation across YouTube, Instagram, Facebook, and TikTok  
+- Story-driven editing and digital media production  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website  
+Fully responsive personal portfolio built using HTML, CSS, and JavaScript.
 
-A fully responsive personal portfolio built using HTML, CSS, and JavaScript.
+### 📈 Power Summit Training  
+Workout and cycling performance tracking platform.
 
-### 📈 Power Summit Training
+### 🎮 Catch Quest  
+Interactive browser-based game built with JavaScript.
 
-A training platform designed to track workouts and cycling performance.
+### 🏠 Broward Villas Website  
+Real estate website showcasing responsive front-end development.
 
-### 🎮 Catch Quest
-
-Interactive browser-based game developed using JavaScript.
-
-### 🏠 Broward Villas Website
-
-Responsive website showcasing modern front-end development principles.
-
-### 💧 PureAgua Organization
-
-Website project created to provide information and resources for community outreach.
+### 💧 PureAgua Organization  
+Informational website built for community outreach and engagement.
 
 ---
 
 ## 📚 What Sets Me Apart
 
-* Clean and maintainable code
-* Mobile-first responsive design
-* Strong attention to detail
-* Problem-solving mindset
-* Creative and technical background
-* Experience teaching and mentoring others
-* Continuous learner with a passion for technology
+- Clean, scalable, and maintainable code  
+- Mobile-first responsive design  
+- Strong attention to UI/UX detail  
+- Real-world problem-solving mindset  
+- Strong communication + teaching ability  
+- Hybrid developer + creative producer skillset  
+- Consistent learner across tech and media  
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 
-📧 Email: **[luisgornes@hotmail.com](mailto:luisgornes@hotmail.com)**
-
-🌐 Portfolio:
-https://luis33k.github.io/myPortfolio/
-
-💼 LinkedIn:
-https://www.linkedin.com/in/luis-g-688356b5
-
-🐙 GitHub:
-https://github.com/luis33k
+📸 Instagram: **@lfgcycling**  
+🎥 YouTube: **LFG Cycling**  
+🌐 Website: https://lfgcycling.com  
+💼 LinkedIn: https://www.linkedin.com/in/luis-g-688356b5  
+🐙 GitHub: https://github.com/luis33k  
 
 ---
 
-## 🚀 Let's Build Something Great
+## 🚴 LFG Cycling (Creative Brand)
 
-I'm always interested in opportunities involving:
+I also run **LFG Cycling**, a cycling-focused content brand documenting:
 
-* Web Development
-* Software Development
-* IT Support
-* Multimedia Production
-* Graphic Design
-* Freelance Projects
-* Creative and Technical Collaboration
+- Bike repairs & restoration  
+- Bike flips & transformations  
+- Mechanical breakdowns & drivetrain tuning  
+- Cinematic workshop content  
+- Real-world cycling culture storytelling  
 
-Thank you for visiting my portfolio!
+Ride. Fix. Flip. Create.
+
+---
+
+## 🚀 Let’s Build Something Great
+
+I’m open to opportunities involving:
+
+- Web Development  
+- Software Engineering  
+- IT Support  
+- Multimedia Production  
+- Graphic Design  
+- Freelance Projects  
+- Creative + Technical Collaboration  
+
+Thank you for visiting my portfolio.
